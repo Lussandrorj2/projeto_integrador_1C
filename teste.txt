@@ -1,2 +1,12 @@
 lista grupo
 
+<<<<<<< HEAD
+=======
+
+Lussandro
+Miguel
+Renan 
+Isis
+
+teste main
+>>>>>>> 429b5f348548b7e312b19b5313d4ec1c902b9ddf
