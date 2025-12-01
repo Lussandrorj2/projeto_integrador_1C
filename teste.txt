@@ -1,1 +1,8 @@
 lista grupo
+
+Lussandro
+Miguel
+Renan 
+Isis
+
+teste main
